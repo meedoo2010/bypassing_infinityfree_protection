@@ -21,4 +21,3 @@ playwright install chromium
 python get_source.py
 ```
 
-استخدمه على مواقعك أو المواقع المسموح لك بيها فقط.
